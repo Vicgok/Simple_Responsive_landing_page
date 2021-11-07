@@ -1,0 +1,24 @@
+<svg width="100%" height="100%" viewBox="0 0 1440 292">
+<path  d="M1189.5 0.205688C1105.83 0.205688 1038 68.0344 1038 151.706V288.294H-0.5V291.294H1038H1039.5H1041V151.706C1041 69.6913 1107.49 3.20569 1189.5 3.20569H1439.5V0.205688H1189.5Z" fill="white"/>
+</svg>
+<!-- 1920x1080 -->
+<svg width="1920" height="292" viewBox="0 0 1920 292" >
+<path  d="M1670 0.205566C1586.33 0.205566 1518.5 68.0343 1518.5 151.705V288.294L0 288.294V291.294L1518.5 291.294H1521.36H1521.5V151.705C1521.5 69.6912 1587.99 3.20557 1670 3.20557H1920V0.205566H1670Z" fill="white"/>
+</svg>
+
+/* right-line */
+
+<!-- position: static;
+width: 450px;
+height: 0px;
+left: 1240px;
+top: 0px;
+
+border: 5px solid #000000;
+transform: rotate(90deg); -->
+
+/* Inside Auto Layout */
+<!-- flex: none;
+order: 2;
+flex-grow: 0;
+margin: 0px 482px; -->
